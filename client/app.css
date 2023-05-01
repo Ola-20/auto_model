@@ -1,0 +1,30 @@
+
+
+.form-box {
+background: #ffe4c4; /*bisque */
+box-shadow: 3px 3px 15px #bcd4e6;
+margin-bottom: 2%;
+margin:3%;
+border-radius: 16px;
+padding:1%;
+width:90%;
+border: #e5e6e9 1px solid;
+text-align: center;
+
+}
+
+.form-box input, select, {
+border-radius: 11px;
+padding: 5px;
+border: #6A0DAD 1px solid;
+}
+
+.form-box select, {
+width: 50%;
+}
+
+
+
+
+
+

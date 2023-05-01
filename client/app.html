@@ -1,0 +1,63 @@
+<!-- This is a simple code to create a web end point for users to interact with the model via a Flask server
+It will take input of odo, location, Transmission and year. It will the return an estimated price
+It relies on JavaScript referenced in the code.
+
+ -->
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Alberta Used Car Prediction</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="app.js"></script>
+    <link rel="stylesheet"  href="app.css" type="text/css">
+
+  </head>
+  <body>
+  <div class="form-box">
+  <form>
+
+    <h2>Odo (km)</h2>
+    <input type="number" id="uiOdo" name="odokm" step="1000" placeholder="25000">
+  </form>
+    <h2>Location</h2>
+  <div>
+    <select name ="uiLocate" id="uiLocations">
+      <option value="" disabled="disabled" selected="selected">Choose a Location</option>
+      <option>Calgary</option>
+      <option>Edmonton</option>
+    </select>
+  </div>
+
+    <h2>Transmission</h2>
+  <div>
+    <select name ="uiTransmit" id="uiTransmissions">
+      <option value="" disabled="disabled" selected="selected">Choose a Transmission Type</option>
+      <option>Automatic</option>
+      <option>Manual</option>
+    </select>
+  </div>
+
+
+  <h2>Year</h2>
+  <div>
+    <select name ="uiYear" id="uiYears">
+      <option value="" disabled="disabled" selected="selected">Choose a Year</option>
+      <option value="2016">2016</option>
+      <option value="2017">2017</option>
+      <option value="2018">2018</option>
+      <option value="2019">2019</option>
+      <option value="2020">2020</option>
+      <option value="2021">2021</option>
+      <option value="2022">2022</option>
+    </select>
+  </div>
+    <br/>
+    <button onclick="place()"><h2>Estimate Price</h2></button>
+    <br/>
+    <br/>
+    <button id="uiActualPrice" class="result">   <h2></h2> </button>
+  </div>
+  </body>
+</html>
