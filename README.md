@@ -25,3 +25,17 @@ The project involves five stages:
 
 ![image](https://user-images.githubusercontent.com/71553115/236508885-b0ea359e-dd22-4328-b2e8-1f4e665cb18a.png)
 
+
+
+Four input features include:
+
+·        Distance covered by the vehicle in kilometers (“Odo”)
+
+·        Year
+
+·        Transmission
+
+·        Location of sales
+
+The target output will be the price. The web application will require the four features, and the estimated cost will be returned. 
+
