@@ -4,6 +4,7 @@ This is a model for predicting used car prices for web-scrapped data acquired f
 I will be updating this file as I move on with this project.
 
 The project involves four stages:
+
 Scaping web data and performing initial cleaning.
  
 Importing and cleaning the data in pandas
