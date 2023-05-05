@@ -1,17 +1,23 @@
 # Predicting prices of used Honda Civic vehicle in Alberta, Canada.
 This model predicts used car prices for web-scrapped data acquired from an online (Kijiji.ca) advertising website.
+
 I will be updating this file as I move on with this project.
 
-Project Goal 
+## Project Goal 
 Sellers and buyers of used cars want to know the cost to help maximize profit and reduce expenditure, as the case may be. This interactive web model can be used to give such price estimates based on the four most common features that drive the prices of vehicles. 
 
-Steps
+## Steps
 
 The project involves five stages:
+
 •	Scaping web data and performing initial cleaning.
-•	Importing and cleaning the data in pandas
-•	Creating a Model for the prediction of prices for a potential buyer or seller of Honda civic model
-•	Built the flask server API
+
+•	Importing and cleaning the data in pandas.
+
+•	Creating a Model for the prediction of prices for a potential buyer or seller of Honda civic model.
+
+•	Built the flask server API.
+
 •	Built a Simple web application that ingest features provided by users and return estimated price output.
 
 
