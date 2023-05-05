@@ -39,3 +39,10 @@ Four input features include:
 
 The target output will be the price. The web application will require the four features, and the estimated cost will be returned. 
 
+## Description
+
+·       The server folder contains the code that will use the predictor model built and exported from the jupyter-notebook to predict a price output based on the required input features.
+
+·       The client folder contains HTML, CSS, and JS files that will be used to create a simple web interface for both input and output.
+
+·       The model folder contains the actual model, which was exported from jupyter-notebook as a pickle file
