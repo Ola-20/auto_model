@@ -22,7 +22,7 @@ for j in range(1,5):
     soup = BeautifulSoup(source.content, 'html.parser') # get the content of the ulr above
     lists = soup.find_all('div', class_="info-container") # find all "div" with the class info-container
 
-    with open('civicMAN.csv', 'a', encoding='utf8', newline='') as f:  # open my cfeated csv file to append the extracted data
+    with open('civicMAN.csv', 'a', encoding='utf8', newline='') as f:  # open my created csv file to append the extracted data
         theWriter = writer(f) # signifying the variable "thewriter" to write into f(civivMan.csv)
         header = ['price', 'Title', 'Location', 'OdoType'] # create header for the first row in the extracted data
         theWriter.writerow(header) # use writerow function to first row( which the header list above)
