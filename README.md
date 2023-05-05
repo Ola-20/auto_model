@@ -45,6 +45,8 @@ The target output will be the price. The web application will require the four f
 
 ·       The client folder contains HTML, CSS, and JS files that were used to create a simple web interface for both input and output.
 
-·       The model folder contains the actual model, which was exported from jupyter-notebook as a pickle file.
+·       The model folder contains the actual model, exported from the jupyter-notebook as a pickle file.
+
+·       Sample_scrape.py contains the code used to acquire data from the web
 
  
