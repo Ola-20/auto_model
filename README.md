@@ -6,9 +6,9 @@ I will be updating this file as I move on with this project.
 The project involves four stages:
 
 Scaping web data and performing initial cleaning.
- 
+
 Importing and cleaning the data in pandas
- 
+
 Creating a Model for the prediction of prices for a potential buyer or seller of honda civic model
 
 Built a Simple web application that injest features provided by users and return estimated price output.
