@@ -15,4 +15,4 @@ Built a Simple web application that ingest features provided by users and return
 
 <h1>Overview</h1>
 
-![image](https://user-images.githubusercontent.com/71553115/236505622-77ab674b-7996-4b23-a8db-63d4db93e2f0.png)
+![image](https://user-images.githubusercontent.com/71553115/236508798-231d1c01-6ff4-4010-8e12-f8ff2201e0a8.png)
