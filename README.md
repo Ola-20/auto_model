@@ -27,7 +27,7 @@ The project involves five stages:
 
 Figure 1: Project Process Overview
 
-Four input features include:
+### The four input features include:
 
 ·        Distance covered by the vehicle in kilometers (“Odo”)
 
