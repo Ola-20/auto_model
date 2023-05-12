@@ -25,7 +25,7 @@ The project involves five stages:
 
 ![image](https://user-images.githubusercontent.com/71553115/236508885-b0ea359e-dd22-4328-b2e8-1f4e665cb18a.png)
 
-
+Figure 1: Project Process Overview
 
 Four input features include:
 
@@ -42,8 +42,7 @@ The target output will be the price. The web application will require the four f
 
 ![image](https://github.com/Ola-20/auto_model/assets/71553115/82e3ff6d-9aba-422d-80c9-afd7ab884c3c)
 
-
-Web User Interface: Before and after clicking Estimate Price.
+Figure 2: Web User Interface; Before and after clicking Estimate Price.
 
 ## Description
 
