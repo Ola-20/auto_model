@@ -39,6 +39,10 @@ Four input features include:
 
 The target output will be the price. The web application will require the four features, and the estimated cost will be returned. 
 
+
+![image](https://github.com/Ola-20/auto_model/assets/71553115/82e3ff6d-9aba-422d-80c9-afd7ab884c3c)
+
+
 ## Description
 
 ·       The server folder contains the code that used the predictor model built and exported from the jupyter-notebook to predict a price output based on the required input features.
