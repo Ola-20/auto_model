@@ -54,4 +54,13 @@ Figure 2: Web User Interface; Before and after clicking Estimate Price.
 
 ·       Sample_scrape.py contains the code used to acquire data from the web
 
+
+## Conclusion
+
+This Model can be further optimized with more data observations to guide buyers and sellers of used vehicles in their transaction decision.
+
+
+
+_Olayinka Akinbola: Data Scientist | Data Analyst_
+
  
